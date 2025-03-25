@@ -1,4 +1,4 @@
-package com.pm.patientservice;
+package com.pm.patientservice.kafka;
 
 import org.springframework.stereotype.Service;
 
